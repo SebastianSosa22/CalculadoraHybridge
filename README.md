@@ -9,4 +9,3 @@ Para ejecutar esta calculadora, asegúrate de tener Python instalado en tu siste
 1. Clona el repositorio a tu sistema local.
 2. Navega hasta el directorio del proyecto.
 3. Ejecuta el archivo `main.py` usando:
-# CalculadoraHybridge
